@@ -90,7 +90,7 @@ export default function ChatApp() {
     return (
       <div className="fixed inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center z-50">
         <Card className="w-full max-w-md mx-4 p-6 bg-card border-border">
-          <div className="text-center mb-6">
+          <div className="text-center mb-2">
             <h2 className="text-2xl font-bold text-card-foreground mb-2">
               Welcome to ChitChat
             </h2>
